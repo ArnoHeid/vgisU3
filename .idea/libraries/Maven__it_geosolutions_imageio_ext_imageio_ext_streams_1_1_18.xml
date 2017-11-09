@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: it.geosolutions.imageio-ext:imageio-ext-streams:1.1.18">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/it/geosolutions/imageio-ext/imageio-ext-streams/1.1.18/imageio-ext-streams-1.1.18.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/it/geosolutions/imageio-ext/imageio-ext-streams/1.1.18/imageio-ext-streams-1.1.18-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/it/geosolutions/imageio-ext/imageio-ext-streams/1.1.18/imageio-ext-streams-1.1.18-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
